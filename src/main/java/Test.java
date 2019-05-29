@@ -12,8 +12,6 @@ public class Test {
 
     @org.junit.Test
     public void test(){
-        
-
         int [] inputNum = {9};
         miniCode.fun(inputNum,0,"");
 
