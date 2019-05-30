@@ -15,7 +15,7 @@ public class MiniCode {
                 LETTERS[1][0] = '1';
             }else{
                 boolean flag = false;
-                if(i>6&&i!=7){
+                if(i>6&&i!=8){
                     LETTERS[i] = new char[4];
                     flag = true;
                 }else{
